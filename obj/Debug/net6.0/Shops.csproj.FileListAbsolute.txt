@@ -1,0 +1,12 @@
+C:\Users\Snake\OneDrive - ITMO UNIVERSITY\Рабочий стол\12345\Lab1\Shops\bin\Debug\net6.0\Shops.deps.json
+C:\Users\Snake\OneDrive - ITMO UNIVERSITY\Рабочий стол\12345\Lab1\Shops\bin\Debug\net6.0\Shops.dll
+C:\Users\Snake\OneDrive - ITMO UNIVERSITY\Рабочий стол\12345\Lab1\Shops\bin\Debug\net6.0\Shops.pdb
+C:\Users\Snake\OneDrive - ITMO UNIVERSITY\Рабочий стол\12345\Lab1\Shops\obj\Debug\net6.0\Shops.csproj.AssemblyReference.cache
+C:\Users\Snake\OneDrive - ITMO UNIVERSITY\Рабочий стол\12345\Lab1\Shops\obj\Debug\net6.0\Shops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Snake\OneDrive - ITMO UNIVERSITY\Рабочий стол\12345\Lab1\Shops\obj\Debug\net6.0\Shops.AssemblyInfoInputs.cache
+C:\Users\Snake\OneDrive - ITMO UNIVERSITY\Рабочий стол\12345\Lab1\Shops\obj\Debug\net6.0\Shops.AssemblyInfo.cs
+C:\Users\Snake\OneDrive - ITMO UNIVERSITY\Рабочий стол\12345\Lab1\Shops\obj\Debug\net6.0\Shops.csproj.CoreCompileInputs.cache
+C:\Users\Snake\OneDrive - ITMO UNIVERSITY\Рабочий стол\12345\Lab1\Shops\obj\Debug\net6.0\Shops.dll
+C:\Users\Snake\OneDrive - ITMO UNIVERSITY\Рабочий стол\12345\Lab1\Shops\obj\Debug\net6.0\refint\Shops.dll
+C:\Users\Snake\OneDrive - ITMO UNIVERSITY\Рабочий стол\12345\Lab1\Shops\obj\Debug\net6.0\Shops.pdb
+C:\Users\Snake\OneDrive - ITMO UNIVERSITY\Рабочий стол\12345\Lab1\Shops\obj\Debug\net6.0\ref\Shops.dll
